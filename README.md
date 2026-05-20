@@ -1,3 +1,8 @@
+> **This repository has moved.**
+> All development continues at [shindevlin/btcpc](https://github.com/shindevlin/btcpc) (monorepo).
+
+---
+
 # BTCPC Marketing Handoff
 
 This repository contains everything a marketing team needs to understand, position, and promote **Bitcoin Proof of Compute (BTCPC)** — without needing to read code or understand blockchain engineering.
